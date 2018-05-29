@@ -1,5 +1,4 @@
 # Defactobase
  
-This project aims to provide the full history for any curated information!
-
-***TBC!***
+Defactobase is a decentralized network for curated events. Any event might include multiple revisions in which actors are able 
+to curate them.
