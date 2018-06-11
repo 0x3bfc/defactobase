@@ -1,7 +1,6 @@
 # Defactobase
 
-Defactobase is a decentralized network for curated events. Any event might include multiple revisions in which actors are able to curate them. The main objective of this repository is acheive the follow
-ing goals:
+Defactobase is a decentralized network for curated events. Any event might include multiple revisions in which actors are able to curate them. The main objective of this repository is to acheive the following goals:
 
 - Separate data domain from from information.
 - Enable people to have access to the same data concerning specific event.
